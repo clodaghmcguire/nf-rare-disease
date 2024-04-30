@@ -1,0 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# Nextflow log files
+.nextflow*
+execution_report*
+execution_timeline*
+execution_trace*
+work/
